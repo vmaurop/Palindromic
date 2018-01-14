@@ -2,6 +2,7 @@
 Check if number or string is palindrome
 
 Editor:Vim
+
 Programming language:Ruby
 
 
