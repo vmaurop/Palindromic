@@ -16,7 +16,7 @@ The first 30 palindromic numbers (in decimal) are:
 Palindromic numbers receive most attention in the realm of recreational mathematics. 
 A typical problem asks for numbers that possess a certain property and are palindromic
 
-**references:https://en.wikipedia.org/wiki/Palindromic_number**
+
 
 
 palindrome string:
@@ -30,5 +30,5 @@ a string constituted only by a single character is a palindrome
 
 
 
-
+**references:https://en.wikipedia.org/wiki/Palindromic_number**
 
